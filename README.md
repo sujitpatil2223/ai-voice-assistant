@@ -1,10 +1,10 @@
-# 🎙️ AI Voice Assistant
+# AI Voice Assistant
 
 A Python-based AI Voice Assistant that listens to voice commands and performs tasks like opening websites and responding using text-to-speech.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Voice command recognition  
 - Text-to-speech response  
@@ -14,7 +14,7 @@ A Python-based AI Voice Assistant that listens to voice commands and performs ta
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python  
 - SpeechRecognition  
@@ -24,7 +24,7 @@ A Python-based AI Voice Assistant that listens to voice commands and performs ta
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 AI-Voice-Assistant/  
 │── index.py  
@@ -34,29 +34,29 @@ AI-Voice-Assistant/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/sujitpatil2223/ai-voice-assistant.git
 cd ai-voice-assistant
 ```
 
-### 2️⃣ Create Virtual Environment (Recommended)
+### Create Virtual Environment (Recommended)
 
 ```bash
 python -m venv venv
 venv\Scripts\activate   # For Windows
 ```
 
-### 3️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the Project
+### Run the Project
 
 ```bash
 python index.py
@@ -64,7 +64,7 @@ python index.py
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The microphone captures user voice input.  
 2. SpeechRecognition converts speech to text.  
@@ -74,7 +74,7 @@ python index.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add GUI interface (Tkinter / PyQt)  
 - Add AI chatbot integration  
@@ -84,11 +84,11 @@ python index.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sujit Ghadge**  
 Python Developer | Backend Enthusiast  
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
+If you like this project, consider giving it a star on GitHub!
